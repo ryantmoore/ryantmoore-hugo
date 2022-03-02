@@ -1,6 +1,6 @@
 ---
 role: Associate Professor, Senior Social Scientist, Fellow in Methodology
-avatar_filename: rtmlabformal.jpg
+avatar_filename: avatar.jpg
 bio: My research interests center around statistical political methodology, with
   applications in social policy.
 interests:
