@@ -8,17 +8,8 @@ authors:
 author_notes:
   - American University
   - Washington University in St. Louis
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.  
+abstract: Across disciplines, scholars strive to better understand individuals' milieus---the people, places, and institutions individuals encounter in their daily lives. In particular, political scientists argue that racial and ethnic context shapes attitudes about candidates, policies, and fellow citizens. Yet, the current standard of measuring milieus is to place survey respondents in a geographic container and then to ascribe all that container's characteristics to the individual's milieu. Using a new dataset of over 2.6 million GPS records from over 400 individuals, we compare conventional static measures of racial and ethnic context to dynamic, precise measures of milieus. We demonstrate how low-level static measures tend to overstate how extreme individuals' racial and ethnic contexts are and offer suggestions for future researchers.
+summary: Using a new dataset of over 2.6 million GPS records from over 400 individuals, we compare conventional static measures of racial and ethnic context to dynamic, precise measures of milieus. We demonstrate how low-level static measures tend to overstate how extreme individuals' racial and ethnic contexts are and offer suggestions for future researchers.
 publication: In *Political Science Research and Methods*
 draft: false
 featured: true
