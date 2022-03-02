@@ -12,9 +12,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ryantmoore
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - display:
       header: false
     link: https://scholar.google.com/citations?user=7nk2NIgAAAAJ
