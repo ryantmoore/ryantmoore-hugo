@@ -4,7 +4,7 @@ avatar_filename: rtmlabformal.jpg
 bio: My research interests center around statistical political methodology, with
   applications in social policy.
 interests:
-  - StatisticalMethodsTest
+  - Statistical&nbspMethods
 social:
   - icon: envelope
     icon_pack: fas
