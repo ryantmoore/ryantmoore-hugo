@@ -7,10 +7,10 @@ authors:
   - Karissa&nbspMinnich
   - David&nbspYokum
 author_notes:
-  - American UniversityandThe Lab @ DC
-  - the lab
-  - thelab
-  - the lab
+  - American University and The Lab @ DC
+  - The Lab @ DC
+  - The Lab @ DC
+  - The Lab @ DC
 publication_short: In *JPP*
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
