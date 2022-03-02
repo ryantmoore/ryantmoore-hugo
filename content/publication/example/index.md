@@ -21,7 +21,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
 tags:
-  - Experiment
+  - Experiments
   - SocialPolicy
 projects:
   - example
@@ -44,7 +44,7 @@ publication: In *Journal of Public Policy*
 featured: true
 date: 2022-03-02T22:01:15.005Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
