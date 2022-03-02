@@ -4,8 +4,8 @@ title: "Anchor Management: A Field Experiment to Encourage Families to Meet
 authors:
   - admin
   - Katherine&nbspN.&nbspGan
-  - KarissaMinnich
-  - DavidYokum
+  - Karissa&nbspMinnich
+  - David&nbspYokum
 author_notes:
   - American UniversityandThe Lab @ DC
   - the lab
@@ -28,7 +28,7 @@ projects:
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
@@ -42,7 +42,7 @@ url_source: ""
 url_video: ""
 publication: In *Journal of Public Policy*
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2022-03-02T22:01:15.005Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
