@@ -6,7 +6,7 @@ bio: My research interests center around statistical political methodology, with
 interests:
   - Statistical&nbspMethods
   - Social&nbspScience
-  - Causal&nbpsInference
+  - Causal&nbspInference
 social:
   - icon: envelope
     icon_pack: fas

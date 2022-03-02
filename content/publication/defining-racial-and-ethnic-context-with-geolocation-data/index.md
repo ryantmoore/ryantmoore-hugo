@@ -7,7 +7,7 @@ authors:
   - Andrew&nbspReeves
 author_notes:
   - American University
-  - WUSTL
+  - Washington University in St. Louis
 publication: In *Political Science Research & Methods*
 draft: false
 featured: true
