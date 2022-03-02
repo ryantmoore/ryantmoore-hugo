@@ -8,7 +8,7 @@ authors:
 author_notes:
   - American University
   - WUSTL
-publication: Political Science Research & Methods
+publication: In *Political Science Research & Methods*
 draft: false
 featured: true
 tags:
