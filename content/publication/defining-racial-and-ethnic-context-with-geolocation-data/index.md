@@ -8,7 +8,7 @@ authors:
 author_notes:
   - American University
   - Washington University in St. Louis
-publication: In *Political Science Research & Methods*
+publication: In *Political Science Research and Methods*
 draft: false
 featured: true
 tags:
