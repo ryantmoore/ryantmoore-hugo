@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: rtm (at) american (dot) edu
+  phone: +1 202 885 6470
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 4400 Massachusetts Avenue NW
+    city: Washington
+    region: DC
+    postcode: '20016'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '38.9374386'
+    longitude: '-77.0888712'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
