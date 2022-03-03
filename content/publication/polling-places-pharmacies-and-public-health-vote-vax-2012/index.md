@@ -36,5 +36,6 @@ summary: US national elections, which draw sizable numbers of older voters, take
   American or Hispanic. More than half of the White Vote & Vax recipients and
   more than two thirds of the non-White recipients were not regular flu shot
   recipients.
-date: 2022-03-03T11:45:39.268Z
+date: 2015-06-01T12:00:00.00Z
+url_pdf: "shemooben15.pdf"
 ---
