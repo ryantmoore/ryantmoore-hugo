@@ -35,18 +35,17 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '38.9374'
+    latitude: '38.9375'
     longitude: '-77.0869'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Kerwin Hall
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Wednesday 10:00 to 11:00'
+  appointment_url: 'https://calendly.com/ryantmoore'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/MooreRyanT'
     - icon: video
       icon_pack: fas
       name: Zoom Me
