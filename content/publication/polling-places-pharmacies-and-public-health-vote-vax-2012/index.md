@@ -19,7 +19,7 @@ abstract: US national elections, which draw sizable numbers of older voters,
   Vote & Vax recipients and more than two thirds of the non-White recipients
   were not regular flu shot recipients.
 draft: false
-url_pdf: shemooben15.pdf
+url_pdf: "shemooben15.pdf"
 publication_types:
   - "2"
 featured: false
