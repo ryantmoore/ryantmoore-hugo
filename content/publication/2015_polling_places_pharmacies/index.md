@@ -1,5 +1,5 @@
 ---
-title: "Polling Places, Pharmacies, and Public Health: Vote \& Vax 2012"
+title: "Polling Places, Pharmacies, and Public Health: Vote & Vax 2012"
 date: "2015-01-01"
 authors: ["Douglas Shenson", "Ryan T. Moore", "William Benson", "Lynda A. Anderson"]
 publication_types: ["2"]
