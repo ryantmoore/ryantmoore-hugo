@@ -1,8 +1,7 @@
 ---
 title: "Polling Places, Pharmacies, and Public Health: Vote & Vax 2012"
 authors:
-  - Shenson
-  - Douglas
+  - Douglas Shenson
   - admin
   - William Benson
   - Lynda A. Anderson
@@ -34,12 +33,12 @@ image:
   preview_only: false
 summary: US national elections, which draw sizable numbers of older voters, take
   place during flu-shot season and represent an untapped opportunity for
-  large-scale delivery of vaccinations. In 2012, Vote & Vax deployed more than
+  large-scale delivery of vaccinations. In 2012, Vote \& Vax deployed more than
   1500 Election Day flu shot clinics in polling places and pharmacies across the
   United States. Despite pharmacy clinics being more numerous, polling place
   clinics delivered significantly more vaccines than did pharmacies.
   Approximately 45% of the recipients identified their race/ethnicity as African
-  American or Hispanic. More than half of the White Vote & Vax recipients and
+  American or Hispanic. More than half of the White Vote \& Vax recipients and
   more than two thirds of the non-White recipients were not regular flu shot
   recipients.
 date: 2015-06-01T12:00:00.000Z
