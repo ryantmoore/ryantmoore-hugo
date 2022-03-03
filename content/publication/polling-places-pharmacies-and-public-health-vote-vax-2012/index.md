@@ -5,7 +5,7 @@ authors:
   - admin
   - William Benson
   - Lynda A. Anderson
-publication: In *American Journal of Public Health*
+publication: *American Journal of Public Health*
 abstract: US national elections, which draw sizable numbers of older voters,
   take place during flu-shot season and represent an untapped opportunity for
   large-scale delivery of vaccinations. In 2012, Vote \& Vax deployed a total of
