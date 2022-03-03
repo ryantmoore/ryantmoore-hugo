@@ -1,13 +1,11 @@
 ---
 title: "Polling Places, Pharmacies, and Public Health: Vote & Vax 2012"
-publication_types:
-  - "2"
 authors:
   - Shenson
   - Douglas
   - admin
   - William Benson
-  - and Lynda A. Anderson
+  - Lynda A. Anderson
 publication: In *American Journal of Public Health*
 abstract: US national elections, which draw sizable numbers of older voters,
   take place during flu-shot season and represent an untapped opportunity for
@@ -21,6 +19,9 @@ abstract: US national elections, which draw sizable numbers of older voters,
   Vote & Vax recipients and more than two thirds of the non-White recipients
   were not regular flu shot recipients.
 draft: false
+url_pdf: shemooben15.pdf
+publication_types:
+  - "2"
 featured: false
 image:
   filename: featured
@@ -36,6 +37,8 @@ summary: US national elections, which draw sizable numbers of older voters, take
   American or Hispanic. More than half of the White Vote & Vax recipients and
   more than two thirds of the non-White recipients were not regular flu shot
   recipients.
-date: 2015-06-01T12:00:00.00Z
-url_pdf: "shemooben15.pdf"
+date: 2015-06-01T12:00:00.000Z
 ---
+To cite this paper, 
+
+Shenson, Douglas, Ryan T. Moore, William Benson, and Lynda A. Anderson (2015). **Polling Places, Pharmacies, and Public Health: Vote & Vax 2012**.  *American Journal of Public Health*, 105(6):e12-e15.
