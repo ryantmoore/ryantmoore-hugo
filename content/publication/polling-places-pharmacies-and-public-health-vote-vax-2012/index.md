@@ -45,4 +45,4 @@ date: 2015-06-01T12:00:00.000Z
 ---
 To cite this paper, 
 
-Shenson, Douglas, Ryan T. Moore, William Benson, and Lynda A. Anderson (2015). **Polling Places, Pharmacies, and Public Health: Vote \& Vax 2012**. *American Journal of Public Health*, 105(6):e12-e15.
+Shenson, Douglas, Ryan T. Moore, William Benson, and Lynda A. Anderson (2015). **Polling Places, Pharmacies, and Public Health: Vote \& Vax 2012**. _American Journal of Public Health_, 105(6):e12-e15.
