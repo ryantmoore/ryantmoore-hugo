@@ -1,28 +1,27 @@
 ---
-title: Defining Racial and Ethnic Context with Geolocation Data
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Andrew&nbspReeves
-author_notes:
-  - American University
-  - Washington University in St. Louis
-abstract: Across disciplines, scholars strive to better understand individuals' milieus---the people, places, and institutions individuals encounter in their daily lives. In particular, political scientists argue that racial and ethnic context shapes attitudes about candidates, policies, and fellow citizens. Yet, the current standard of measuring milieus is to place survey respondents in a geographic container and then to ascribe all that container's characteristics to the individual's milieu. Using a new dataset of over 2.6 million GPS records from over 400 individuals, we compare conventional static measures of racial and ethnic context to dynamic, precise measures of milieus. We demonstrate how low-level static measures tend to overstate how extreme individuals' racial and ethnic contexts are and offer suggestions for future researchers.
-summary: Using a new dataset of over 2.6 million GPS records from over 400 individuals, we compare conventional static measures of racial and ethnic context to dynamic, precise measures of milieus. We demonstrate how low-level static measures tend to overstate how extreme individuals' racial and ethnic contexts are and offer suggestions for future researchers.
-publication: In *Political Science Research and Methods*
-draft: false
-featured: true
-tags:
-  - Geolocation
-  - Race
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2020-10-01T12:00:00.000Z
+title: "Defining Racial and Ethnic Context with Geolocation Data"
+date: "2020-01-01"
+authors: ["Ryan T. Moore", "Andrew Reeves"]
+publication_types: ["2"]
+publication: "Political Science Research and Methods, (8), 4, _pp. 780-794_, https://doi.org/https://doi.org/10.1017/psrm.2020.10"
+publication_short: "Political Science Research and Methods, (8), 4, _pp. 780-794_, https://doi.org/https://doi.org/10.1017/psrm.2020.10"
+abstract: ""
+abstract_short: ""
+image_preview: ""
+selected: false
+projects: []
+tags: []
+url_pdf: ""
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+url_project: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
+url_source: ""
+math: true
+highlight: true
+image: ""
+caption: ""
 ---
-
-To cite this paper, 
-
-Moore, Ryan T. and Andrew Reeves (2020). "Defining Racial and Ethnic Context with Geolocation Data." *Political Science Research and Methods*, 8(4):780–794.
