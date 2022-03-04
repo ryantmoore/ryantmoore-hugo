@@ -16,23 +16,13 @@ publication_types:
   - "2"
 publication: _Journal of Policy Analysis and Management_
 publication_short: _Journal of Policy Analysis and Management_
-abstract: ""
-abstract_short: ""
-image_preview: ""
+abstract: "Here"
+abstract_short: "Here less"
 featured: false
 tags:
   - Experiment
   - Health
   - Social Policy
 url_pdf: ""
-url_preprint: ""
-url_code: ""
-url_dataset: ""
-url_project: ""
-url_slides: ""
-url_video: ""
-url_poster: ""
-url_source: ""
-image: ""
-caption: ""
 ---
+To cite this paper, 
