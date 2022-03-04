@@ -19,7 +19,7 @@ abstract: US national elections, which draw sizable numbers of older voters,
   were not regular flu shot recipients.
 draft: false
 tags:
-  - SocialPolicy
+  - Social Policy
   - Health
   - Race
   - Voting
