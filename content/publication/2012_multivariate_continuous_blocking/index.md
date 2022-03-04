@@ -10,7 +10,7 @@ publication_short: "Political Analysis, (20), 4, pp. 460--479"
 abstract: ""
 abstract_short: ""
 image_preview: ""
-selected: true
+featured: false
 tags:
   - Experiments
   - Methods
