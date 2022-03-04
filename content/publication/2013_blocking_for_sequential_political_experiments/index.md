@@ -1,7 +1,7 @@
 ---
 title: "Blocking for Sequential Political Experiments"
 date: "2013-01-01"
-authors: ["Ryan T. Moore", "Sally A. Moore"]
+authors: [admin, "Sally A. Moore"]
 publication_types: ["2"]
 publication: "Political Analysis, (21), 4, _pp. 507--523_"
 publication_short: "Political Analysis, (21), 4, _pp. 507--523_"
