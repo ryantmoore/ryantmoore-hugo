@@ -10,7 +10,7 @@ abstract_short: ""
 image_preview: ""
 selected: false
 projects: []
-tags: []
+tags: ["Health", "Social Policy", "Voting"]
 url_pdf: ""
 url_preprint: ""
 url_code: ""
