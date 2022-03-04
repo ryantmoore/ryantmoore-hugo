@@ -22,5 +22,4 @@ url_poster: ""
 url_source: ""
 math: true
 highlight: true
-image: ""
 ---
