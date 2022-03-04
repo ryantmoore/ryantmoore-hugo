@@ -23,7 +23,6 @@ url_slides: ""
 url_video: ""
 url_poster: ""
 url_source: ""
-math: true
 image: ""
 caption: ""
 ---
