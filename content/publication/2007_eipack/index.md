@@ -1,14 +1,23 @@
 ---
 title: "eiPack: Ecological Inference and Higher-Dimension Data Management"
-date: "NA"
-authors: ["Olivia Lau", "Ryan T. Moore", "Michael Kellermann"]
+date: 2007-01-01T12:00:00.000Z
+authors:
+  - Olivia Lau
+  - admin
+  - Michael Kellermann
+author_notes:
+  - 1
+  - 2
+  - 3
 publication_types: ["4"]
-publication: "NA"
+publication: _R News_
 publication_short: "NA"
 abstract: ""
 abstract_short: ""
+summary: ""
 image_preview: ""
 selected: false
+featured: true
 projects: []
 tags: ["Software"]
 url_pdf: ""
@@ -25,3 +34,4 @@ highlight: true
 image: ""
 caption: ""
 ---
+To cite this paper, 
