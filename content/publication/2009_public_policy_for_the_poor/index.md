@@ -10,7 +10,7 @@ authors:
   - Clayton Nall
   - Nirmala Ravishankar
   - Manett Vargas
-  - Martha Marïa Tellez-Rojo
+  - Martha María Tellez-Rojo
   - Juan Eugenio Hernandez Avila
   - Mauricio Hernandez Avila
   - Hector Hernandez Llamas
