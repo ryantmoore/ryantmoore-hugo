@@ -22,7 +22,7 @@ author_notes:
   - The Lab @ DC
 abstract: This report summarizes the results of our evaluation of the DC Flexible Rent Subsidy Program (DC Flex).
 summary: This report summarizes the results of our evaluation of the DC Flexible Rent Subsidy Program (DC Flex).
-publication: Available at
+publication: Available at https://www.huduser.gov/PORTAL/sites/default/files/pdf/DC-Flexible-Rent-2020.pdf
 draft: false
 featured: false
 tags:
