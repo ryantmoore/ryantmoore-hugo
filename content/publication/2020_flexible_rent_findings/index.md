@@ -1,5 +1,5 @@
 ---
-title: 'DC Flexible Rent Subsidy Program: Findings from the Program's First Year'
+title: "DC Flexible Rent Subsidy Program: Findings from the Program's First Year"
 publication_types:
   - "4"
 authors:
