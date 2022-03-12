@@ -1,5 +1,5 @@
 ---
-title: DC Flexible Rent Subsidy Program: Findings from the Program's First Year
+title: 'DC Flexible Rent Subsidy Program: Findings from the Program's First Year'
 publication_types:
   - "4"
 authors:
@@ -21,6 +21,7 @@ author_notes:
   - American University and The Lab @ DC
   - The Lab @ DC
 abstract: This report summarizes the results of our evaluation of the DC Flexible Rent Subsidy Program (DC Flex).
+summary: This report summarizes the results of our evaluation of the DC Flexible Rent Subsidy Program (DC Flex).
 publication: Available at
 draft: false
 featured: false
