@@ -24,10 +24,24 @@ date_format: Jan 2006
 experience:
   - title: Senior Social Scientist
     company: The Lab @ DC
-    company_url: ''
+    company_url: 'https://thelab.dc.gov'
     company_logo: org-gc
     location: Washington, DC
-    date_start: '2016-09-01'
+    date_start: '2016-10-15'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Fellow in Methods
+    company: Office of Evaluation Sciences
+    company_url: 'https://oes.gsa.gov'
+    company_logo: org-gc
+    location: Washington, DC
+    date_start: '2019-08-26'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,11 +53,11 @@ experience:
   - title: Associate Professor of Government
     company: American University
     company_url: ''
-    company_logo: org-x
+    company_logo: org-au
     location: Washington, DC
     date_start: '2014-08-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Teach statistical methods, data science, and research design.
 
 design:
   columns: '2'
