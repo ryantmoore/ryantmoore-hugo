@@ -5,7 +5,7 @@ authors:
   - admin
   - William Benson
   - Lynda A. Anderson
-publication: _American Journal of Public Health_
+publication: "_American Journal of Public Health_, 105 (6): e12-e15"
 abstract: US national elections, which draw sizable numbers of older voters,
   take place during flu-shot season and represent an untapped opportunity for
   large-scale delivery of vaccinations. In 2012, Vote \& Vax deployed a total of
@@ -45,4 +45,4 @@ date: 2015-06-01T12:00:00.000Z
 ---
 To cite this paper, 
 
-Shenson, Douglas, Ryan T. Moore, William Benson, and Lynda A. Anderson (2015). **Polling Places, Pharmacies, and Public Health: Vote \& Vax 2012**. _American Journal of Public Health_, 105(6):e12-e15.
+Shenson, Douglas, Ryan T. Moore, William Benson, and Lynda A. Anderson (2015). **Polling Places, Pharmacies, and Public Health: Vote \& Vax 2012**. _American Journal of Public Health_, 105(6): e12-e15.

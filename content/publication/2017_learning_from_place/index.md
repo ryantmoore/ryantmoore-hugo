@@ -3,8 +3,8 @@ title: "Learning from Place in the Era of Geolocation"
 date: "2017-01-01"
 authors: [admin, "Andrew Reeves"]
 publication_types: ["6"]
-publication: "NA, _pp. 118--136_"
-publication_short: "NA, _pp. 118--136_"
+publication: "In **Analytics, Policy and Governance**, Chapter Five, pp. 118--136"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 image_preview: ""
