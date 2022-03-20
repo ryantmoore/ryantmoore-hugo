@@ -3,8 +3,8 @@ title: "The Job Market's First Steps: Using Research Tools to Simplify the Proce
 date: "2011-01-01"
 authors: [admin, "Andrew Reeves"]
 publication_types: ["2"]
-publication: "PS: Political Science & Politics, (44), 2, _pp. 385--391_"
-publication_short: "PS: Political Science & Politics, (44), 2, _pp. 385--391_"
+publication: "_PS: Political Science & Politics_, 44 (2): 385--391"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 image_preview: ""

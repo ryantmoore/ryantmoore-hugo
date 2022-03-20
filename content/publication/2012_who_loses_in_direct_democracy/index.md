@@ -3,8 +3,8 @@ title: "Who Loses in Direct Democracy?"
 date: "2012-01-01"
 authors: [admin, "Nirmala Ravishankar"]
 publication_types: ["2"]
-publication: "Social Science Research, (41), 3, pp. 646--656"
-publication_short: "Social Science Research, (41), 3, pp. 646--656"
+publication: "_Social Science Research_, 41 (3): 646--656"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 image_preview: ""

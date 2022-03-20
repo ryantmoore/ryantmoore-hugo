@@ -6,8 +6,8 @@ authors:
   - Christopher T. Giovinazzo
 publication_types:
   - "2"
-publication: "Publius: The Journal of Federalism, (42), 2, _pp. 189--210_" 
-publication_short: "Publius: The Journal of Federalism, (42), 2, _pp. 189--210_"
+publication: "_Publius: The Journal of Federalism_, 42 (2): 189--210" 
+publication_short: ""
 abstract: ""
 abstract_short: ""
 image_preview: ""

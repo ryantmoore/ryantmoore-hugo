@@ -5,8 +5,8 @@ authors:
   - admin
 publication_types:
   - "2"
-publication: "Political Analysis, (20), 4, pp. 460--479"
-publication_short: "Political Analysis, (20), 4, pp. 460--479"
+publication: "_Political Analysis_, 20 (4): 460--479"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 image_preview: ""

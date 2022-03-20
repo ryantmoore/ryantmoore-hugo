@@ -7,8 +7,8 @@ authors:
   - Andrew Reeves
 publication_types:
   - "2"
-publication: "Business and Politics, (15), 2, pp. 137--162"
-publication_short: "Business and Politics, (15), 2, pp. 137--162"
+publication: "_Business and Politics_, 15 (2): 137--162"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 image_preview: ""
