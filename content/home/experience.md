@@ -39,7 +39,7 @@ experience:
   - title: Fellow in Methods
     company: Office of Evaluation Sciences
     company_url: 'https://oes.gsa.gov'
-    company_logo: org-gc
+    company_logo: oes-logo
     location: Washington, DC
     date_start: '2019-08-26'
     date_end: ''
