@@ -25,7 +25,7 @@ experience:
   - title: Senior Social Scientist
     company: The Lab @ DC
     company_url: 'https://thelab.dc.gov'
-    company_logo: org-gc
+    company_logo: thelab
     location: Washington, DC
     date_start: '2016-10-15'
     date_end: ''
