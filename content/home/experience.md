@@ -53,7 +53,7 @@ experience:
   - title: Associate Professor of Government
     company: American University
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-au
     location: Washington, DC
     date_start: '2014-08-01'
     date_end: ''
