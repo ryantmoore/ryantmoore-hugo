@@ -59,6 +59,15 @@ experience:
     date_end: ''
     description: Teach statistical methods, data science, and research design.
 
+  - title: Scholar in Health Policy Research
+    company: Robert Wood Johnson Foundation
+    company_url: 'http://www.healthpolicyscholars.org'
+    company_logo: org-ucb-blue
+    location: Berkeley, CA
+    date_start: '2010-08-01'
+    date_end: '2012-07-31'
+    description: Scholar in Health Policy Research.
+
 design:
   columns: '2'
 ---
