@@ -14,8 +14,8 @@ authors:
   - Hector Hernandez Llamas
 publication_types:
   - "2"
-publication: _Journal of Policy Analysis and Management_
-publication_short: _Journal of Policy Analysis and Management_
+publication: "_Journal of Policy Analysis and Management_, 26 (3): 479--509"
+publication_short: ""
 abstract: "Here"
 abstract_short: "Here less"
 featured: false

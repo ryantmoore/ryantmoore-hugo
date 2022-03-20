@@ -11,8 +11,8 @@ author_notes:
   - 3
 publication_types:
   - "4"
-publication: "NA"
-publication_short: "NA"
+publication: "_R News_, 7 (2): 43--47"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 summary: ""

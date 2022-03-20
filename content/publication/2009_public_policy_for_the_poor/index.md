@@ -16,8 +16,8 @@ authors:
   - Hector Hernandez Llamas
 publication_types:
   - "2"
-publication: "The Lancet, (373), 9673, _pp. 1447--54_"
-publication_short: "The Lancet, (373), 9673, _pp. 1447--54_"
+publication: "_The Lancet_, 373 (9673): 1447--54"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 featured: false
