@@ -1,9 +1,9 @@
 ---
 title: "Do Shallow Rental Subsidies Promote Housing Stability? Evidence on Costs and Effects from DC's Shallow Flexible Rent Subsidy Program"
-date: "2022-01-01"
+date: "2022-02-01"
 authors: ["Maria Avila", "Natnaell Mammo", admin, "Sam Quinney"]
 publication_types: ["3"]
-publication: ""
+publication: "_Under review_."
 publication_short: ""
 abstract: ""
 abstract_short: ""
