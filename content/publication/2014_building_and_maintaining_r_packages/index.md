@@ -3,8 +3,8 @@ title: "Building and Maintaining R Packages with devtools and roxygen2"
 date: "2014-01-01"
 authors: ["Jacob M. Montgomery", admin]
 publication_types: ["2"]
-publication: "The Political Methodologist, (22), 1, pp. 26--31"
-publication_short: "The Political Methodologist, (22), 1, pp. 26--31"
+publication: "_The Political Methodologist_, 22 (1), 26--31"
+publication_short: ""
 abstract: ""
 abstract_short: ""
 image_preview: ""
