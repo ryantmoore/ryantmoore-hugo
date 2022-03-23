@@ -18,8 +18,8 @@ subtitle:
 feature:
 - description: 'Social Science'
   icon: face-thinking
-  icon_pack: fas
-  name: Social Science
+  icon_pack: fa
+  name: and Public Policy
 - description: 'and Causal Inference'
   icon: chart-line
   icon_pack: fas

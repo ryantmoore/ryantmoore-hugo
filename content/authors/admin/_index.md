@@ -7,6 +7,8 @@ interests:
   - Statistical&nbspMethods
   - Social&nbspScience
   - Causal&nbspInference
+  - Social&nbspPolicy
+  - Experiments
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,4 +39,4 @@ email: ""
 ---
 Ryan T. Moore's research interests center around statistical political methodology, with applications in social policy. Methodologically, he develops and implements methods for political experiments, causal inference, ecological data, missing data, causal inference, geolocated data, and open, reproducible social science.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cvRTMoore.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cvRTMoore.pdf" "newtab" >}}CV{{< /staticref >}}.
