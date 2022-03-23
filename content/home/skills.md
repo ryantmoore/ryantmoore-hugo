@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 'and Public Policy'
-  icon: face-thinking
+  icon: users
   icon_pack: fas
   name: Social Science
 - description: 'and Causal Inference'
