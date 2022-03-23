@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 'Social Science'
+- description: 'and Public Policy'
   icon: face-thinking
-  icon_pack: fa
-  name: and Public Policy
+  icon_pack: fa-solid
+  name: Social Science
 - description: 'and Causal Inference'
   icon: chart-line
   icon_pack: fas
