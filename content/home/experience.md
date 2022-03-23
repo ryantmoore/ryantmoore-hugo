@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Experimental Design and Analysis
+        * Statistical and Programming Guidance
+        * Data Science Mentorship
 
   - title: Fellow in Methods
     company: Office of Evaluation Sciences
@@ -46,9 +46,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Experimental Design and Analysis
+        * Statistical Guidance
+        * Code Development
         
   - title: Associate Professor of Government
     company: American University
@@ -57,7 +57,7 @@ experience:
     location: Washington, DC
     date_start: '2014-08-01'
     date_end: ''
-    description: Teach statistical methods, data science, and research design.
+    description: Teach statistical methods, data science, social policy, and research design.
 
   - title: Scholar in Health Policy Research
     company: Robert Wood Johnson Foundation

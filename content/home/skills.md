@@ -16,14 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 'Social Science'
+  icon: face-thinking
+  icon_pack: fas
+  name: Social Science
+- description: 'and Causal Inference'
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
 - description: 'Statistical Computing'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

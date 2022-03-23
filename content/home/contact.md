@@ -39,17 +39,17 @@ content:
     longitude: '-77.0869'
   directions: Kerwin Hall
   office_hours:
-    - 'Wednesday 10:00 to 11:00'
+    - 'By appointment'
   appointment_url: 'https://calendly.com/ryantmoore'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/MooreRyanT'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+#  contact_links:
+#    - icon: twitter
+#      icon_pack: fab
+#      name: DM Me
+#      link: 'https://twitter.com/MooreRyanT'
+#    - icon: video
+#      icon_pack: fas
+#      name: Zoom Me
+#      link: 'https://zoom.com'
 
 design:
   columns: '2'
