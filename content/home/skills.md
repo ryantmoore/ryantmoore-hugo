@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 'and Public Policy'
   icon: face-thinking
-  icon_pack: fa-solid
+  icon_pack: fa
   name: Social Science
 - description: 'and Causal Inference'
   icon: chart-line
